@@ -14,34 +14,7 @@ This is a clean and minimal blog application built using **Flask**. It allows us
 
 ---
 
-## 📁 Project Structure
 
-day-67-upgraded-blog-end/
-├── main.py                 # Flask application entrypoint
-├── requirements.txt        # Project dependencies
-│
-├── instance/
-│   └── posts.db            # SQLite database
-│
-├── static/
-│   ├── css/
-│   │   └── styles.css      # Custom CSS
-│   ├── js/
-│   │   └── scripts.js      # JavaScript functionality
-│   └── assets/
-│       └── img/            # Background and icons
-│
-└── templates/
-    ├── index.html          # Home page
-    ├── post.html           # Blog post view
-    ├── make-post.html      # New/edit post
-    ├── about.html          # About page
-    ├── contact.html        # Contact page
-    ├── header.html         # Common header
-    └── footer.html         # Common footer
-
-
----
 
 ## ⚙️ Getting Started
 
